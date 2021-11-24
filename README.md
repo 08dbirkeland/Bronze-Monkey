@@ -1,2 +1,2 @@
 # Bronze-Monkey
-Hello this a thing about monkeys and the ocasional hippo!
+Hello this a thing about monkeys and the occasional hippo!
